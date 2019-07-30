@@ -1,0 +1,5 @@
+
+.changetorow{
+  display: flex;
+  flex-flow: row
+}
